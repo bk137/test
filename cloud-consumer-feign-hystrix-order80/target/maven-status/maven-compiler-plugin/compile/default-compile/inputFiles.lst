@@ -1,0 +1,5 @@
+E:\JAVA\cloudtest\cloud-consumer-feign-hystrix-order80\src\main\java\org\shun\cloud\service\PaymentFallbackService.java
+E:\JAVA\cloudtest\cloud-consumer-feign-hystrix-order80\src\main\java\org\shun\cloud\config\FeignConfig.java
+E:\JAVA\cloudtest\cloud-consumer-feign-hystrix-order80\src\main\java\org\shun\cloud\controller\PaymentHystrixController.java
+E:\JAVA\cloudtest\cloud-consumer-feign-hystrix-order80\src\main\java\org\shun\cloud\OrderFeignHystrixMain80.java
+E:\JAVA\cloudtest\cloud-consumer-feign-hystrix-order80\src\main\java\org\shun\cloud\service\PaymentFeignService.java
